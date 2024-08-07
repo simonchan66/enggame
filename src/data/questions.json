@@ -298,5 +298,353 @@
       "text": "Who brings gifts on Christmas?",
       "answer": "Santa Claus",
       "options": ["the Easter Bunny", "Santa Claus", "a witch"]
+    },
+    {
+      "id": 51,
+      "text": "What do you call a baby horse?",
+      "answer": "foal",
+      "options": ["calf", "foal", "cub"]
+    },
+    {
+      "id": 52,
+      "text": "What do you use to measure temperature?",
+      "answer": "thermometer",
+      "options": ["ruler", "thermometer", "clock"]
+    },
+    {
+      "id": 53,
+      "text": "Which planet is known as the Red Planet?",
+      "answer": "Mars",
+      "options": ["Venus", "Mars", "Saturn"]
+    },
+    {
+      "id": 54,
+      "text": "What do you call a group of fish?",
+      "answer": "school",
+      "options": ["herd", "flock", "school"]
+    },
+    {
+      "id": 55,
+      "text": "What do caterpillars turn into?",
+      "answer": "butterflies",
+      "options": ["moths", "butterflies", "beetles"]
+    },
+    {
+      "id": 56,
+      "text": "What is the opposite of tall?",
+      "answer": "short",
+      "options": ["big", "small", "short"]
+    },
+    {
+      "id": 57,
+      "text": "What do you call a place where planes take off and land?",
+      "answer": "airport",
+      "options": ["train station", "airport", "bus stop"]
+    },
+    {
+      "id": 58,
+      "text": "What do you call a person who flies a plane?",
+      "answer": "pilot",
+      "options": ["driver", "captain", "pilot"]
+    },
+    {
+      "id": 59,
+      "text": "Which animal has a very long neck?",
+      "answer": "giraffe",
+      "options": ["elephant", "giraffe", "zebra"]
+    },
+    {
+      "id": 60,
+      "text": "What do you call the middle meal of the day?",
+      "answer": "lunch",
+      "options": ["breakfast", "lunch", "dinner"]
+    },
+    {
+      "id": 61,
+      "text": "What is the opposite of empty?",
+      "answer": "full",
+      "options": ["half", "full", "none"]
+    },
+    {
+      "id": 62,
+      "text": "What do you call a doctor for animals?",
+      "answer": "veterinarian",
+      "options": ["pediatrician", "veterinarian", "dentist"]
+    },
+    {
+      "id": 63,
+      "text": "What do you call a building where you can borrow books?",
+      "answer": "library",
+      "options": ["bookstore", "library", "school"]
+    },
+    {
+      "id": 64,
+      "text": "What is the opposite of awake?",
+      "answer": "asleep",
+      "options": ["tired", "asleep", "dreaming"]
+    },
+    {
+      "id": 65,
+      "text": "What do you call a baby sheep?",
+      "answer": "lamb",
+      "options": ["kid", "lamb", "calf"]
+    },
+    {
+      "id": 66,
+      "text": "What do you use to unlock a door?",
+      "answer": "key",
+      "options": ["lock", "key", "handle"]
+    },
+    {
+      "id": 67,
+      "text": "What is the largest land animal?",
+      "answer": "elephant",
+      "options": ["elephant", "giraffe", "hippopotamus"]
+    },
+    {
+      "id": 68,
+      "text": "What do you call a person who teaches in a school?",
+      "answer": "teacher",
+      "options": ["principal", "teacher", "student"]
+    },
+    {
+      "id": 69,
+      "text": "What do you call the first meal of the day?",
+      "answer": "breakfast",
+      "options": ["lunch", "dinner", "breakfast"]
+    },
+    {
+      "id": 70,
+      "text": "What is the opposite of old?",
+      "answer": "new",
+      "options": ["young", "new", "modern"]
+    },
+    {
+      "id": 71,
+      "text": "What do you call a person who cuts and styles hair?",
+      "answer": "hairdresser",
+      "options": ["barber", "hairdresser", "stylist"]
+    },
+    {
+      "id": 72,
+      "text": "What do you call a place where you can see wild animals?",
+      "answer": "zoo",
+      "options": ["park", "zoo", "farm"]
+    },
+    {
+      "id": 73,
+      "text": "What is the hottest season of the year?",
+      "answer": "summer",
+      "options": ["spring", "autumn", "summer"]
+    },
+    {
+      "id": 74,
+      "text": "What do you call a person who fights fires?",
+      "answer": "firefighter",
+      "options": ["policeman", "firefighter", "soldier"]
+    },
+    {
+      "id": 75,
+      "text": "What do you call a building where you can buy medicine?",
+      "answer": "pharmacy",
+      "options": ["hospital", "pharmacy", "clinic"]
+    },
+    {
+      "id": 76,
+      "text": "What do you call a person who delivers letters and packages?",
+      "answer": "mailman",
+      "options": ["mailman", "driver", "courier"]
+    },
+    {
+      "id": 77,
+      "text": "What do you call the room in a house where you cook food?",
+      "answer": "kitchen",
+      "options": ["bedroom", "kitchen", "bathroom"]
+    },
+    {
+      "id": 78,
+      "text": "What do you call a person who catches fish for a living?",
+      "answer": "fisherman",
+      "options": ["sailor", "fisherman", "diver"]
+    },
+    {
+      "id": 79,
+      "text": "What is the opposite of fast?",
+      "answer": "slow",
+      "options": ["quick", "slow", "steady"]
+    },
+    {
+      "id": 80,
+      "text": "What do you call a building where you can watch movies?",
+      "answer": "cinema",
+      "options": ["theater", "cinema", "stadium"]
+    },
+    {
+      "id": 81,
+      "text": "What do you call a person who plays a musical instrument?",
+      "answer": "musician",
+      "options": ["artist", "musician", "actor"]
+    },
+    {
+      "id": 82,
+      "text": "What do you call a baby kangaroo?",
+      "answer": "joey",
+      "options": ["joey", "kit", "pup"]
+    },
+    {
+      "id": 83,
+      "text": "What do you call a round toy that bounces?",
+      "answer": "ball",
+      "options": ["hoop", "ball", "frisbee"]
+    },
+    {
+      "id": 84,
+      "text": "What do you call a person who grows crops?",
+      "answer": "farmer",
+      "options": ["gardener", "farmer", "rancher"]
+    },
+    {
+      "id": 85,
+      "text": "What is the opposite of wet?",
+      "answer": "dry",
+      "options": ["damp", "moist", "dry"]
+    },
+    {
+      "id": 86,
+      "text": "What do you call a place where you can buy groceries?",
+      "answer": "supermarket",
+      "options": ["mall", "supermarket", "market"]
+    },
+    {
+      "id": 87,
+      "text": "What do you call a person who takes care of teeth?",
+      "answer": "dentist",
+      "options": ["doctor", "dentist", "nurse"]
+    },
+    {
+      "id": 88,
+      "text": "What do you call a baby frog?",
+      "answer": "tadpole",
+      "options": ["polliwog", "tadpole", "froglet"]
+    },
+    {
+      "id": 89,
+      "text": "What do you call a person who helps sick people in a hospital?",
+      "answer": "nurse",
+      "options": ["doctor", "nurse", "paramedic"]
+    },
+    {
+      "id": 90,
+      "text": "What is the opposite of noisy?",
+      "answer": "quiet",
+      "options": ["loud", "silent", "quiet"]
+    },
+    {
+      "id": 91,
+      "text": "What do you call a place where you can buy stamps and mail letters?",
+      "answer": "post office",
+      "options": ["bank", "post office", "store"]
+    },
+    {
+      "id": 92,
+      "text": "What do you call a person who cuts down trees for a living?",
+      "answer": "lumberjack",
+      "options": ["gardener", "lumberjack", "carpenter"]
+    },
+    {
+      "id": 93,
+      "text": "What do you call a baby cow?",
+      "answer": "calf",
+      "options": ["calf", "kid", "cub"]
+    },
+    {
+      "id": 94,
+      "text": "What do you call a place where you can swim and play in water?",
+      "answer": "pool",
+      "options": ["lake", "pool", "beach"]
+    },
+    {
+      "id": 95,
+      "text": "What do you call a person who bakes bread and cakes?",
+      "answer": "baker",
+      "options": ["chef", "baker", "cook"]
+    },
+    {
+      "id": 96,
+      "text": "What is the opposite of heavy?",
+      "answer": "light",
+      "options": ["light", "weightless", "feathery"]
+    },
+    {
+      "id": 97,
+      "text": "What do you call a place where you can see paintings and sculptures?",
+      "answer": "museum",
+      "options": ["gallery", "museum", "exhibition"]
+    },
+    {
+      "id": 98,
+      "text": "What do you call a person who fixes cars?",
+      "answer": "mechanic",
+      "options": ["engineer", "mechanic", "technician"]
+    },
+    {
+      "id": 99,
+      "text": "What do you call a baby bear?",
+      "answer": "cub",
+      "options": ["pup", "cub", "kit"]
+    },
+    {
+      "id": 100,
+      "text": "What do you call a place where you can buy medicine?",
+      "answer": "pharmacy",
+      "options": ["drugstore", "pharmacy", "clinic"]
+    },
+    {
+      "id": 101,
+      "text": "What do you call a person who works with wood to make furniture?",
+      "answer": "carpenter",
+      "options": ["carpenter", "builder", "architect"]
+    },
+    {
+      "id": 102,
+      "text": "What is the opposite of rough?",
+      "answer": "smooth",
+      "options": ["soft", "smooth", "flat"]
+    },
+    {
+      "id": 103,
+      "text": "What do you call a place where you can borrow movies?",
+      "answer": "video store",
+      "options": ["cinema", "video store", "library"]
+    },
+    {
+      "id": 104,
+      "text": "What do you call a person who designs buildings?",
+      "answer": "architect",
+      "options": ["engineer", "architect", "builder"]
+    },
+    {
+      "id": 105,
+      "text": "What do you call a baby goat?",
+      "answer": "kid",
+      "options": ["kid", "lamb", "fawn"]
+    },
+    {
+      "id": 106,
+      "text": "What do you call a place where you can buy flowers?",
+      "answer": "florist",
+      "options": ["garden center", "florist", "nursery"]
+    },
+    {
+      "id": 107,
+      "text": "What do you call a person who takes photos?",
+      "answer": "photographer",
+      "options": ["cameraman", "photographer", "artist"]
+    },
+    {
+      "id": 108,
+      "text": "What is the opposite of remember?",
+      "answer": "forget",
+      "options": ["recall", "forget", "memorize"]
     }
   ]

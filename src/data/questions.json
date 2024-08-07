@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "text": "What color is the sky?",
+      "answer": "blue",
+      "options": ["red", "blue", "green"]
+    },
+    {
+      "id": 2,
+      "text": "How many legs does a cat have?",
+      "answer": "four",
+      "options": ["two", "four", "six"]
+    },
+    {
+      "id": 3,
+      "text": "What do you use to write?",
+      "answer": "pencil",
+      "options": ["pencil", "fork", "shoe"]
+    },
+    {
+      "id": 4,
+      "text": "What shape is a ball?",
+      "answer": "round",
+      "options": ["square", "round", "triangle"]
+    },
+    {
+      "id": 5,
+      "text": "What do you drink when you are thirsty?",
+      "answer": "water",
+      "options": ["water", "sand", "rock"]
+    },
+    {
+      "id": 6,
+      "text": "Which animal says 'meow'?",
+      "answer": "cat",
+      "options": ["dog", "cat", "cow"]
+    },
+    {
+      "id": 7,
+      "text": "What is the color of grass?",
+      "answer": "green",
+      "options": ["red", "blue", "green"]
+    },
+    {
+      "id": 8,
+      "text": "How many wheels are there on a bicycle?",
+      "answer": "two",
+      "options": ["two", "three", "four"]
+    },
+    {
+      "id": 9,
+      "text": "What do you use to brush your teeth?",
+      "answer": "toothbrush",
+      "options": ["comb", "toothbrush", "spoon"]
+    },
+    {
+      "id": 10,
+      "text": "What do you need to see in the dark?",
+      "answer": "light",
+      "options": ["light", "book", "pillow"]
+    },
+    {
+      "id": 11,
+      "text": "What fruit is round and orange?",
+      "answer": "orange",
+      "options": ["banana", "apple", "orange"]
+    },
+    {
+      "id": 12,
+      "text": "What is ice made of?",
+      "answer": "water",
+      "options": ["rock", "wood", "water"]
+    },
+    {
+      "id": 13,
+      "text": "What do you wear on your head?",
+      "answer": "hat",
+      "options": ["shoes", "hat", "gloves"]
+    },
+    {
+      "id": 14,
+      "text": "Which animal barks?",
+      "answer": "dog",
+      "options": ["cat", "dog", "bird"]
+    },
+    {
+      "id": 15,
+      "text": "How many days are there in a week?",
+      "answer": "seven",
+      "options": ["five", "seven", "ten"]
+    },
+    {
+      "id": 16,
+      "text": "What do you use to eat soup?",
+      "answer": "spoon",
+      "options": ["fork", "knife", "spoon"]
+    },
+    {
+      "id": 17,
+      "text": "What color are strawberries?",
+      "answer": "red",
+      "options": ["blue", "red", "yellow"]
+    },
+    {
+      "id": 18,
+      "text": "Where do fish live?",
+      "answer": "water",
+      "options": ["desert", "forest", "water"]
+    },
+    {
+      "id": 19,
+      "text": "What season comes after winter?",
+      "answer": "spring",
+      "options": ["summer", "spring", "autumn"]
+    },
+    {
+      "id": 20,
+      "text": "What is made of wood and has leaves?",
+      "answer": "tree",
+      "options": ["tree", "car", "house"]
+    },
+    {
+      "id": 21,
+      "text": "What is the opposite of hot?",
+      "answer": "cold",
+      "options": ["cold", "wet", "soft"]
+    },
+    {
+      "id": 22,
+      "text": "What do you use to see far away?",
+      "answer": "binoculars",
+      "options": ["binoculars", "mirror", "lamp"]
+    },
+    {
+      "id": 23,
+      "text": "What animal gives us milk?",
+      "answer": "cow",
+      "options": ["chicken", "cow", "pig"]
+    },
+    {
+      "id": 24,
+      "text": "What do you call a baby dog?",
+      "answer": "puppy",
+      "options": ["kitten", "puppy", "calf"]
+    },
+    {
+      "id": 25,
+      "text": "What color is a banana?",
+      "answer": "yellow",
+      "options": ["yellow", "purple", "blue"]
+    },
+    {
+      "id": 26,
+      "text": "How many fingers do you have?",
+      "answer": "ten",
+      "options": ["ten", "eight", "eleven"]
+    },
+    {
+      "id": 27,
+      "text": "What is the color of snow?",
+      "answer": "white",
+      "options": ["white", "black", "pink"]
+    },
+    {
+      "id": 28,
+      "text": "Which animal is known as the king of the jungle?",
+      "answer": "lion",
+      "options": ["elephant", "lion", "tiger"]
+    },
+    {
+      "id": 29,
+      "text": "What do you use to sweep the floor?",
+      "answer": "broom",
+      "options": ["broom", "brush", "mop"]
+    },
+    {
+      "id": 30,
+      "text": "Which bird can talk like humans?",
+      "answer": "parrot",
+      "options": ["sparrow", "eagle", "parrot"]
+    },
+    {
+      "id": 31,
+      "text": "What do you use to cut paper?",
+      "answer": "scissors",
+      "options": ["hammer", "scissors", "stick"]
+    },
+    {
+      "id": 32,
+      "text": "What do you use to write on a blackboard?",
+      "answer": "chalk",
+      "options": ["pen", "chalk", "pencil"]
+    },
+    {
+      "id": 33,
+      "text": "What fruit is known to keep the doctor away?",
+      "answer": "apple",
+      "options": ["banana", "apple", "grape"]
+    },
+    {
+      "id": 34,
+      "text": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "options": ["Earth", "Mars", "Jupiter"]
+    },
+    {
+      "id": 35,
+      "text": "What do bees make?",
+      "answer": "honey",
+      "options": ["milk", "honey", "bread"]
+    },
+    {
+      "id": 36,
+      "text": "What is the opposite of day?",
+      "answer": "night",
+      "options": ["night", "evening", "morning"]
+    },
+    {
+      "id": 37,
+      "text": "What do you use to tie your shoes?",
+      "answer": "laces",
+      "options": ["tape", "laces", "string"]
+    },
+    {
+      "id": 38,
+      "text": "What do you call a house made of ice?",
+      "answer": "igloo",
+      "options": ["igloo", "cabin", "tent"]
+    },
+    {
+      "id": 39,
+      "text": "What is the color of a fire truck?",
+      "answer": "red",
+      "options": ["red", "blue", "green"]
+    },
+    {
+      "id": 40,
+      "text": "What is 2 + 2?",
+      "answer": "four",
+      "options": ["three", "four", "five"]
+    },
+    {
+      "id": 41,
+      "text": "What season is it when it snows?",
+      "answer": "winter",
+      "options": ["spring", "winter", "summer"]
+    },
+    {
+      "id": 42,
+      "text": "What do you call a baby cat?",
+      "answer": "kitten",
+      "options": ["puppy", "kitten", "cub"]
+    },
+    {
+      "id": 43,
+      "text": "What part of a plant conducts photosynthesis?",
+      "answer": "leaf",
+      "options": ["root", "leaf", "stem"]
+    },
+    {
+      "id": 44,
+      "text": "What gas do we need to breathe to live?",
+      "answer": "oxygen",
+      "options": ["oxygen", "nitrogen", "carbon dioxide"]
+    },
+    {
+      "id": 45,
+      "text": "What do you call the place where books are kept?",
+      "answer": "library",
+      "options": ["office", "library", "bakery"]
+    },
+    {
+      "id": 46,
+      "text": "What vehicle flies in the sky?",
+      "answer": "airplane",
+      "options": ["car", "train", "airplane"]
+    },
+    {
+      "id": 47,
+      "text": "What is the color of the ocean?",
+      "answer": "blue",
+      "options": ["green", "blue", "brown"]
+    },
+    {
+      "id": 48,
+      "text": "What season do leaves fall from the trees?",
+      "answer": "autumn",
+      "options": ["spring", "summer", "autumn"]
+    },
+    {
+      "id": 49,
+      "text": "What is the color of gold?",
+      "answer": "yellow",
+      "options": ["silver", "yellow", "red"]
+    },
+    {
+      "id": 50,
+      "text": "Who brings gifts on Christmas?",
+      "answer": "Santa Claus",
+      "options": ["the Easter Bunny", "Santa Claus", "a witch"]
+    }
+  ]

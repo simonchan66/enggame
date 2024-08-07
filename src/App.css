@@ -1,0 +1,165 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.enchanted-english-garden {
+  text-align: center;
+  background-color: #e6f7ff;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #4a4a4a;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.garden {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  max-width: 800px;
+}
+
+.flower {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.question-panel {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 100%;
+}
+
+.question-panel h2 {
+  color: #4a4a4a;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+input {
+  font-size: 1rem;
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+  border: 2px solid #a0d2eb;
+  border-radius: 10px;
+}
+
+button {
+  font-size: 1rem;
+  margin: 10px 0;
+  padding: 10px 20px;
+  background-color: #a0d2eb;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #7fb9d9;
+}
+
+.options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.option-btn {
+  font-size: 1rem;
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #ffd700;
+  color: #4a4a4a;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.option-btn:hover {
+  background-color: #ffeb3b;
+}
+
+.reward-animation {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .question-panel h2 {
+    font-size: 1.2rem;
+  }
+
+  .flower {
+    font-size: 30px;
+  }
+
+  .option-btn {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+
+  .reward-animation {
+    font-size: 1.5rem;
+  }
+}
+
+
+.garden {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+  max-width: 800px;
+  min-height: 150px;
+}
+
+.reward-item {
+  font-size: 40px;
+  margin: 5px;
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* ... (keep the rest of the existing styles) ... */
